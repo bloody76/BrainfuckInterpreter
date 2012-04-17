@@ -1,0 +1,7 @@
+BrainfuckInterpreter is a very simple interpreter for Brainfuck in C.
+
+You can use the Makefile like this:
+
+  $ make #To build the binary.
+  $ make test #If you want to launch the Hello World test.
+  $ make clean
